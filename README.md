@@ -4,4 +4,9 @@ Wordpress taxonomy meta class (updated version)
 <br>
 <h3>Usage</h3>
 <hr>
-Check the usage demo file 
+<br>
+Check the usage demo file .
+
+First You should require the exa,ple-usage.php(Whatever the name is) file into your functions.php file. 
+
+And then make sure the core class file path in the example-usage.php file correct ( Or you can also include this core class file first in the functions.php  )
